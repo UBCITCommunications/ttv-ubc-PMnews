@@ -1,8 +1,7 @@
 name: Fetch UBC Privacy Matters
 on:
   schedule:
-    - cron: '15,45 * * * *'   # every 30 min, offset from IT news
-  workflow_dispatch:
+  - cron: '0 14 * * 1' # weekly, Mondays 14:00 UTC (7am PT)  workflow_dispatch:
   push:
     branches: [main]
     paths:
