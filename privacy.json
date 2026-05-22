@@ -1,0 +1,78 @@
+{
+  "generated_at": "2026-05-22T01:02:27.367941+00:00",
+  "count": 8,
+  "items": [
+    {
+      "id": "907",
+      "title": "Romance Baiting Scams: What to Know",
+      "link": "https://privacymatters.ubc.ca/news/romance-baiting-scams-what-know",
+      "image": "https://privacymatters.ubc.ca/sites/default/files/inline-images/heart%201920%20x1080.png",
+      "pub_iso": "2026-05-05T23:06:24+00:00",
+      "summary": "Across North America, students, staff, and faculty are being targeted with increasing precision and scale by scammers exploiting trust rather than technical vulnerabilities. What are romance baiting scams? A romance baiting scam is a form of long-term financial fraud in which scammers build a relationship with a target before convincing them to…",
+      "tag": "Security Bulletin"
+    },
+    {
+      "id": "905",
+      "title": "Help Us Shape Cybersecurity Awareness Month 2026 at UBC",
+      "link": "https://privacymatters.ubc.ca/news/csam-2026-submissions",
+      "image": "https://privacymatters.ubc.ca/sites/default/files/inline-images/Symposium%202026%20Submissions.jpg",
+      "pub_iso": "2026-05-01T20:08:23+00:00",
+      "summary": "Cybersecurity Awareness Month (CSAM) may be in October, but great programming starts now, and we need your help to make it happen. Each year, the Privacy Matters @ UBC team dedicates the month of October to building awareness, sparking conversations, and strengthening our collective approach to cybersecurity and data privacy across campus. This…",
+      "tag": "News"
+    },
+    {
+      "id": "904",
+      "title": "The Evolution of Identity Theft: From Financial Fraud to Data Exploitation",
+      "link": "https://privacymatters.ubc.ca/news/evolution-identity-theft-financial-fraud-data-exploitation",
+      "image": "https://privacymatters.ubc.ca/sites/default/files/inline-images/The%20Evolution%20of%20Identity%20Theft%20-%20From%20Financial%20Fraud%20to%20Data%20Exploitation.jpg",
+      "pub_iso": "2026-04-20T18:00:55+00:00",
+      "summary": "Your digital identity is made up of the personal information that identifies you online—your name, phone number, Social Insurance Number (SIN), and login credentials. Each time you interact with a website, cloud service, or social platform, bits of that identity are shared and stored. Over time, this collection of data becomes valuable, and…",
+      "tag": "Article"
+    },
+    {
+      "id": "903",
+      "title": "Recycling Passwords: Why We Keep Doing It — And How to Stop",
+      "link": "https://privacymatters.ubc.ca/news/recycling-passwords-why-we-keep-doing-it-and-how-stop",
+      "image": "https://privacymatters.ubc.ca/sites/default/files/inline-images/Recycling%20Passwords%20-%20Why%20We%20Keep%20Doing%20It%20%E2%80%94%20And%20How%20to%20Stop.jpg",
+      "pub_iso": "2026-04-17T15:20:08+00:00",
+      "summary": "In today’s digital world, passwords are the keys to nearly everything we do—teaching, research, collaboration, and communication. With so many accounts to manage, it’s understandable that many of us reuse the same password for convenience. But this habit, known as password recycling , remains one of the biggest risks to both personal information…",
+      "tag": "Article"
+    },
+    {
+      "id": "902",
+      "title": "What Makes Your UBC Account a Target for Attackers?",
+      "link": "https://privacymatters.ubc.ca/news/what-makes-your-ubc-account-target-attackers",
+      "image": "https://privacymatters.ubc.ca/sites/default/files/inline-images/What%20Makes%20Your%20UBC%20Account%20a%20Target%20for%20Attackers.jpg",
+      "pub_iso": "2026-04-15T17:24:19+00:00",
+      "summary": "In today’s digital world, data has become one of the most sought-after commodities. Cybercriminals aren’t necessarily looking for a single “perfect” victim; they’re looking for easy opportunities. And at a large institution like UBC, where thousands of accounts connect to valuable research, personal, and administrative data, even one compromised…",
+      "tag": "Article"
+    },
+    {
+      "id": "901",
+      "title": "What Your Online Photos May Reveal About You",
+      "link": "https://privacymatters.ubc.ca/news/what-your-online-photos-may-reveal-about-you",
+      "image": "https://privacymatters.ubc.ca/sites/default/files/inline-images/What%20Your%20Online%20Photos%20May%20Reveals%20About%20You.jpeg",
+      "pub_iso": "2026-04-14T16:01:16+00:00",
+      "summary": "We are constantly sharing photos through email, collaboration platforms, professional networks, or social media. But did you know that every digital image contains hidden information called metadata ? Metadata, embedded automatically by your camera or smartphone, can reveal far more than the visible image itself. Once shared online, this invisible…",
+      "tag": "Article"
+    },
+    {
+      "id": "900",
+      "title": "Information Security Standards: 2026 Review Sessions",
+      "link": "https://privacymatters.ubc.ca/news/information-security-standards-2026-review-sessions",
+      "image": "https://privacymatters.ubc.ca/sites/default/files/inline-images/ISS%20Review%20Session%202026%20Email%20Banner%20no%20text%201920%20x%20640.png",
+      "pub_iso": "2026-04-10T20:45:20+00:00",
+      "summary": "UBC’s Information Security Standards (ISS) are updated annually to protect data and university operations from evolving cyber threats. Whether you work with data, manage IT systems, or simply use email in your day-to-day work, these standards affect all of us. To support awareness, understanding, and compliance, we are hosting two virtual…",
+      "tag": "News"
+    },
+    {
+      "id": "896",
+      "title": "Why Software Updates Matter More Than You Think",
+      "link": "https://privacymatters.ubc.ca/news/why-software-updates-matter-more-you-think",
+      "image": "https://privacymatters.ubc.ca/sites/default/files/inline-images/Why%20Software%20Updates%20Matter%20More%20Than%20You%20Think.jpg",
+      "pub_iso": "2026-03-05T20:17:24+00:00",
+      "summary": "We’ve all seen those pop-ups nudging us to update our devices. In a busy day, it’s tempting to click “Remind me later.” But while delaying may feel harmless, updating your software is one of the most effective actions you can take to protect your computer, phone, and other digital tools. Software updates (sometimes called patches) play a central…",
+      "tag": "News"
+    }
+  ]
+}
