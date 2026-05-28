@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-05-25T16:24:58.073668+00:00",
+  "generated_at": "2026-05-28T03:46:22.547594+00:00",
   "count": 8,
   "items": [
+    {
+      "id": "911",
+      "title": "The Return of Simple Scams: Why Low-Effort Phishing Works",
+      "link": "https://privacymatters.ubc.ca/news/return-simple-scams-why-low-effort-phishing-works",
+      "image": "https://privacymatters.ubc.ca/sites/default/files/inline-images/The%20Return%20of%20Simple%20Scams%20-%20Why%20Low-Effort%20Phishing%20Works.jpg",
+      "pub_iso": "2026-05-14T16:52:43+00:00",
+      "summary": "Phishing has been around for decades, yet it remains one of the most common and effective cyber threats today. Many people picture sophisticated, highly technical attacks—but what often surprises security teams is how well simple, low-effort scams still work. Phishing is a form of social engineering in which criminals impersonate trusted…",
+      "tag": "Article"
+    },
+    {
+      "id": "910",
+      "title": "“It Looked Official” (That’s the Scam)",
+      "link": "https://privacymatters.ubc.ca/news/it-looked-official-thats-scam",
+      "image": "https://privacymatters.ubc.ca/sites/default/files/inline-images/%E2%80%9CIt%20Looked%20Official%E2%80%9D%E2%80%94That%E2%80%99s%20the%20Scam.jpeg",
+      "pub_iso": "2026-05-13T15:29:30+00:00",
+      "summary": "Business Email Compromise (BEC) is one of the most damaging online crimes—not because of complex technology, but because it relies on people. These scams are built on social engineering: the careful manipulation of trust, routine, and urgency to get someone to reveal information or make a mistake. For faculty and staff at a large university, BEC…",
+      "tag": "Article"
+    },
+    {
+      "id": "909",
+      "title": "Reply-All Regrets: Data Exposure in Group Communications",
+      "link": "https://privacymatters.ubc.ca/news/reply-all-regrets-data-exposure-group-communications",
+      "image": "https://privacymatters.ubc.ca/sites/default/files/inline-images/Reply-All%20Regrets%20-%20Data%20Exposure%20in%20Group%20Communications.jpeg",
+      "pub_iso": "2026-05-12T13:24:29+00:00",
+      "summary": "Most of us have experienced that sinking feeling after hitting “Reply All” and realizing—too late—that our message went to far more people than intended. In a large university environment, a small mistake can escalate quickly into a “Reply-All Storm,” flooding inboxes and exposing information that was never meant to be shared widely. While these…",
+      "tag": "Article"
+    },
+    {
+      "id": "908",
+      "title": "Recognizing Emotional Manipulation in Emails",
+      "link": "https://privacymatters.ubc.ca/news/recognizing-emotional-manipulation-emails",
+      "image": "https://privacymatters.ubc.ca/sites/default/files/inline-images/Recognizing%20Emotional%20Manipulation%20in%20Emails_0.jpeg",
+      "pub_iso": "2026-05-11T18:29:17+00:00",
+      "summary": "Cybersecurity challenges are always evolving, but one thing hasn’t changed: attackers continue to rely on the power of human emotion. Rather than breaking through technical safeguards, many scammers now aim to bypass your judgment by triggering quick, emotional reactions that lead to risky clicks or rushed decisions. For UBC faculty and staff—who…",
+      "tag": "Article"
+    },
     {
       "id": "907",
       "title": "Romance Baiting Scams: What to Know",
@@ -37,42 +73,6 @@
       "pub_iso": "2026-04-17T15:20:08+00:00",
       "summary": "In today’s digital world, passwords are the keys to nearly everything we do—teaching, research, collaboration, and communication. With so many accounts to manage, it’s understandable that many of us reuse the same password for convenience. But this habit, known as password recycling , remains one of the biggest risks to both personal information…",
       "tag": "Article"
-    },
-    {
-      "id": "902",
-      "title": "What Makes Your UBC Account a Target for Attackers?",
-      "link": "https://privacymatters.ubc.ca/news/what-makes-your-ubc-account-target-attackers",
-      "image": "https://privacymatters.ubc.ca/sites/default/files/inline-images/What%20Makes%20Your%20UBC%20Account%20a%20Target%20for%20Attackers.jpg",
-      "pub_iso": "2026-04-15T17:24:19+00:00",
-      "summary": "In today’s digital world, data has become one of the most sought-after commodities. Cybercriminals aren’t necessarily looking for a single “perfect” victim; they’re looking for easy opportunities. And at a large institution like UBC, where thousands of accounts connect to valuable research, personal, and administrative data, even one compromised…",
-      "tag": "Article"
-    },
-    {
-      "id": "901",
-      "title": "What Your Online Photos May Reveal About You",
-      "link": "https://privacymatters.ubc.ca/news/what-your-online-photos-may-reveal-about-you",
-      "image": "https://privacymatters.ubc.ca/sites/default/files/inline-images/What%20Your%20Online%20Photos%20May%20Reveals%20About%20You.jpeg",
-      "pub_iso": "2026-04-14T16:01:16+00:00",
-      "summary": "We are constantly sharing photos through email, collaboration platforms, professional networks, or social media. But did you know that every digital image contains hidden information called metadata ? Metadata, embedded automatically by your camera or smartphone, can reveal far more than the visible image itself. Once shared online, this invisible…",
-      "tag": "Article"
-    },
-    {
-      "id": "900",
-      "title": "Information Security Standards: 2026 Review Sessions",
-      "link": "https://privacymatters.ubc.ca/news/information-security-standards-2026-review-sessions",
-      "image": "https://privacymatters.ubc.ca/sites/default/files/inline-images/ISS%20Review%20Session%202026%20Email%20Banner%20no%20text%201920%20x%20640.png",
-      "pub_iso": "2026-04-10T20:45:20+00:00",
-      "summary": "UBC’s Information Security Standards (ISS) are updated annually to protect data and university operations from evolving cyber threats. Whether you work with data, manage IT systems, or simply use email in your day-to-day work, these standards affect all of us. To support awareness, understanding, and compliance, we are hosting two virtual…",
-      "tag": "News"
-    },
-    {
-      "id": "896",
-      "title": "Why Software Updates Matter More Than You Think",
-      "link": "https://privacymatters.ubc.ca/news/why-software-updates-matter-more-you-think",
-      "image": "https://privacymatters.ubc.ca/sites/default/files/inline-images/Why%20Software%20Updates%20Matter%20More%20Than%20You%20Think.jpg",
-      "pub_iso": "2026-03-05T20:17:24+00:00",
-      "summary": "We’ve all seen those pop-ups nudging us to update our devices. In a busy day, it’s tempting to click “Remind me later.” But while delaying may feel harmless, updating your software is one of the most effective actions you can take to protect your computer, phone, and other digital tools. Software updates (sometimes called patches) play a central…",
-      "tag": "News"
     }
   ]
 }
