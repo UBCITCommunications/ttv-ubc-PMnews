@@ -7,7 +7,7 @@ on:
   push:
     branches: [main]
     paths:
-      - 'fetch_privacy.py'
+      - 'build_privacy.py'
       - '.github/workflows/fetch-privacy.yml'
 
 # Never let two runs of this workflow collide on the same branch
@@ -32,7 +32,7 @@ jobs:
         run: pip install requests
 
       - name: Fetch and parse news
-        run: python fetch_privacy.py
+        run: python build_privacy.py
 
       - name: Commit if changed
         run: |
