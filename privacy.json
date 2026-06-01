@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T10:36:57.719722+00:00",
+  "generated_at": "2026-06-01T16:35:07.183043+00:00",
   "count": 8,
   "items": [
     {
@@ -63,7 +63,7 @@
       "image": "https://privacymatters.ubc.ca/sites/default/files/inline-images/The%20Evolution%20of%20Identity%20Theft%20-%20From%20Financial%20Fraud%20to%20Data%20Exploitation.jpg",
       "pub_iso": "2026-04-20T18:00:55+00:00",
       "summary": "Your digital identity is made up of the personal information that identifies you online—your name, phone number, Social Insurance Number (SIN), and login credentials. Each time you interact with a website, cloud service, or social platform, bits of that identity are shared and stored. Over time, this collection of data becomes valuable, and…",
-      "tag": "Article"
+      "tag": "News"
     },
     {
       "id": "903",
@@ -72,7 +72,7 @@
       "image": "https://privacymatters.ubc.ca/sites/default/files/inline-images/Recycling%20Passwords%20-%20Why%20We%20Keep%20Doing%20It%20%E2%80%94%20And%20How%20to%20Stop.jpg",
       "pub_iso": "2026-04-17T15:20:08+00:00",
       "summary": "In today’s digital world, passwords are the keys to nearly everything we do—teaching, research, collaboration, and communication. With so many accounts to manage, it’s understandable that many of us reuse the same password for convenience. But this habit, known as password recycling , remains one of the biggest risks to both personal information…",
-      "tag": "Article"
+      "tag": "News"
     }
   ]
 }
