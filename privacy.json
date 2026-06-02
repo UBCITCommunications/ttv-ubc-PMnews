@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-06-02T18:04:34.003698+00:00",
+  "generated_at": "2026-06-02T21:29:09.160698+00:00",
   "count": 8,
   "items": [
     {
       "id": "911",
       "title": "The Return of Simple Scams: Why Low-Effort Phishing Works",
       "link": "https://privacymatters.ubc.ca/news/return-simple-scams-why-low-effort-phishing-works",
-      "image": "https://privacymatters.ubc.ca/sites/default/files/inline-images/The%20Return%20of%20Simple%20Scams%20-%20Why%20Low-Effort%20Phishing%20Works.jpg",
+      "image": "https://privacymatters.ubc.ca/sites/default/files/inline-images/The%20Return%20of%20Simple%20Scams.jpg",
       "pub_iso": "2026-05-14T16:52:43+00:00",
       "summary": "Phishing has been around for decades, yet it remains one of the most common and effective cyber threats today. Many people picture sophisticated, highly technical attacks—but what often surprises security teams is how well simple, low-effort scams still work. Phishing is a form of social engineering in which criminals impersonate trusted…",
       "tag": "Article"
