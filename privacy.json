@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-06-26T15:19:12.091116+00:00",
+  "generated_at": "2026-06-27T14:21:40.548522+00:00",
   "count": 8,
   "items": [
+    {
+      "id": "917",
+      "title": "Cybersecurity on Vacation: Staying Safe Without Going Offline",
+      "link": "https://privacymatters.ubc.ca/news/cybersecurity-vacation-staying-safe-without-going-offline",
+      "image": "https://privacymatters.ubc.ca/sites/default/files/inline-images/Cybersecurity%20on%20Vacation%20-%20Staying%20Safe%20Without%20Going%20Offline.jpeg",
+      "pub_iso": "2026-06-23T18:20:58+00:00",
+      "summary": "Whether you’re travelling for research, conferences, fieldwork, or personal time away, staying connected is often part of the journey. Phones, tablets, and laptops make travel easier—but they also introduce added risks when taken outside familiar and trusted environments. For UBC faculty and staff, those risks include the potential loss, theft, or…",
+      "tag": "Article"
+    },
+    {
+      "id": "916",
+      "title": "What Happens to Your Data at the Border?",
+      "link": "https://privacymatters.ubc.ca/what-happens-your-data-border",
+      "image": "https://privacymatters.ubc.ca/sites/default/files/inline-images/What%20Happens%20To%20Your%20Data%20at%20the%20Border.jpeg",
+      "pub_iso": "2026-06-23T17:56:44+00:00",
+      "summary": "Many UBC faculty and staff travel internationally for conferences, research, or personal reasons. While mobile devices make it easy to stay connected while away, bringing phones, laptops, or tablets across borders can expose sensitive UBC Electronic Information to additional risks, particularly when crossing into countries where border officials…",
+      "tag": "Article"
+    },
+    {
+      "id": "915",
+      "title": "Think Before You Connect: The Hidden Risks of Public Wi-Fi",
+      "link": "https://privacymatters.ubc.ca/news/think-you-connect-hidden-risks-public-wi-fi",
+      "image": "https://privacymatters.ubc.ca/sites/default/files/inline-images/Think%20Before%20You%20Connect%20-%20The%20Hidden%20Risks%20of%20Public%20Wi-Fi.jpeg",
+      "pub_iso": "2026-06-23T16:41:42+00:00",
+      "summary": "Working remotely can be a great way to stay productive—whether you’re travelling for research, checking email between conference sessions, or settling in at a neighbourhood coffee shop. But the moment you connect from outside UBC’s managed network, you move from a secure, familiar environment into one that is often open, unpredictable, and less…",
+      "tag": "Article"
+    },
+    {
+      "id": "914",
+      "title": "Think Before You Charge: Understanding Public Charging Risks",
+      "link": "https://privacymatters.ubc.ca/news/think-you-charge-understanding-public-charging-risks",
+      "image": "https://privacymatters.ubc.ca/sites/default/files/inline-images/Think%20Before%20You%20Charge%20-%20Understanding%20Public%20Charging%20Risks.jpg",
+      "pub_iso": "2026-06-23T15:35:06+00:00",
+      "summary": "As faculty and staff at UBC travel, attend conferences, or work remotely, smartphones, tablets, and laptops inevitably need recharging throughout the day. Public charging stations—common in airports, hotels, shopping centres, and event venues—seem like a convenient solution. However, much like connecting to public Wi-Fi, plugging into an…",
+      "tag": "Article"
+    },
     {
       "id": "911",
       "title": "The Return of Simple Scams: Why Low-Effort Phishing Works",
@@ -37,42 +73,6 @@
       "pub_iso": "2026-05-11T18:29:17+00:00",
       "summary": "Cybersecurity challenges are always evolving, but one thing hasn’t changed: attackers continue to rely on the power of human emotion. Rather than breaking through technical safeguards, many scammers now aim to bypass your judgment by triggering quick, emotional reactions that lead to risky clicks or rushed decisions. For UBC faculty and staff—who…",
       "tag": "Article"
-    },
-    {
-      "id": "907",
-      "title": "Romance Baiting Scams: What to Know",
-      "link": "https://privacymatters.ubc.ca/news/romance-baiting-scams-what-know",
-      "image": "https://privacymatters.ubc.ca/sites/default/files/inline-images/heart%201920%20x1080.png",
-      "pub_iso": "2026-05-05T23:06:24+00:00",
-      "summary": "Across North America, students, staff, and faculty are being targeted with increasing precision and scale by scammers exploiting trust rather than technical vulnerabilities. What are romance baiting scams? A romance baiting scam is a form of long-term financial fraud in which scammers build a relationship with a target before convincing them to…",
-      "tag": "Security Bulletin"
-    },
-    {
-      "id": "905",
-      "title": "Help Us Shape Cybersecurity Awareness Month 2026 at UBC",
-      "link": "https://privacymatters.ubc.ca/news/csam-2026-submissions",
-      "image": "https://privacymatters.ubc.ca/sites/default/files/inline-images/Symposium%202026%20Submissions.jpg",
-      "pub_iso": "2026-05-01T20:08:23+00:00",
-      "summary": "Cybersecurity Awareness Month (CSAM) may be in October, but great programming starts now, and we need your help to make it happen. Each year, the Privacy Matters @ UBC team dedicates the month of October to building awareness, sparking conversations, and strengthening our collective approach to cybersecurity and data privacy across campus. This…",
-      "tag": "News"
-    },
-    {
-      "id": "904",
-      "title": "The Evolution of Identity Theft: From Financial Fraud to Data Exploitation",
-      "link": "https://privacymatters.ubc.ca/news/evolution-identity-theft-financial-fraud-data-exploitation",
-      "image": "https://privacymatters.ubc.ca/sites/default/files/inline-images/The%20Evolution%20of%20Identity%20Theft%20-%20From%20Financial%20Fraud%20to%20Data%20Exploitation.jpg",
-      "pub_iso": "2026-04-20T18:00:55+00:00",
-      "summary": "Your digital identity is made up of the personal information that identifies you online—your name, phone number, Social Insurance Number (SIN), and login credentials. Each time you interact with a website, cloud service, or social platform, bits of that identity are shared and stored. Over time, this collection of data becomes valuable, and…",
-      "tag": "News"
-    },
-    {
-      "id": "903",
-      "title": "Recycling Passwords: Why We Keep Doing It — And How to Stop",
-      "link": "https://privacymatters.ubc.ca/news/recycling-passwords-why-we-keep-doing-it-and-how-stop",
-      "image": "https://privacymatters.ubc.ca/sites/default/files/inline-images/Recycling%20Passwords%20-%20Why%20We%20Keep%20Doing%20It%20%E2%80%94%20And%20How%20to%20Stop.jpg",
-      "pub_iso": "2026-04-17T15:20:08+00:00",
-      "summary": "In today’s digital world, passwords are the keys to nearly everything we do—teaching, research, collaboration, and communication. With so many accounts to manage, it’s understandable that many of us reuse the same password for convenience. But this habit, known as password recycling , remains one of the biggest risks to both personal information…",
-      "tag": "News"
     }
   ]
 }
