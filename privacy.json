@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T16:31:58.375499+00:00",
+  "generated_at": "2026-06-30T15:22:00.647430+00:00",
   "count": 8,
   "items": [
     {
@@ -45,7 +45,7 @@
       "image": "https://privacymatters.ubc.ca/sites/default/files/inline-images/The%20Return%20of%20Simple%20Scams.jpg",
       "pub_iso": "2026-05-14T16:52:43+00:00",
       "summary": "Phishing has been around for decades, yet it remains one of the most common and effective cyber threats today. Many people picture sophisticated, highly technical attacks—but what often surprises security teams is how well simple, low-effort scams still work. Phishing is a form of social engineering in which criminals impersonate trusted…",
-      "tag": "Article"
+      "tag": "News"
     },
     {
       "id": "910",
@@ -54,7 +54,7 @@
       "image": "https://privacymatters.ubc.ca/sites/default/files/inline-images/%E2%80%9CIt%20Looked%20Official%E2%80%9D%E2%80%94That%E2%80%99s%20the%20Scam.jpeg",
       "pub_iso": "2026-05-13T15:29:30+00:00",
       "summary": "Business Email Compromise (BEC) is one of the most damaging online crimes—not because of complex technology, but because it relies on people. These scams are built on social engineering: the careful manipulation of trust, routine, and urgency to get someone to reveal information or make a mistake. For faculty and staff at a large university, BEC…",
-      "tag": "Article"
+      "tag": "News"
     },
     {
       "id": "909",
@@ -63,7 +63,7 @@
       "image": "https://privacymatters.ubc.ca/sites/default/files/inline-images/Reply-All%20Regrets%20-%20Data%20Exposure%20in%20Group%20Communications.jpeg",
       "pub_iso": "2026-05-12T13:24:29+00:00",
       "summary": "Most of us have experienced that sinking feeling after hitting “Reply All” and realizing—too late—that our message went to far more people than intended. In a large university environment, a small mistake can escalate quickly into a “Reply-All Storm,” flooding inboxes and exposing information that was never meant to be shared widely. While these…",
-      "tag": "Article"
+      "tag": "News"
     },
     {
       "id": "908",
@@ -72,7 +72,7 @@
       "image": "https://privacymatters.ubc.ca/sites/default/files/inline-images/Recognizing%20Emotional%20Manipulation%20in%20Emails_0.jpeg",
       "pub_iso": "2026-05-11T18:29:17+00:00",
       "summary": "Cybersecurity challenges are always evolving, but one thing hasn’t changed: attackers continue to rely on the power of human emotion. Rather than breaking through technical safeguards, many scammers now aim to bypass your judgment by triggering quick, emotional reactions that lead to risky clicks or rushed decisions. For UBC faculty and staff—who…",
-      "tag": "Article"
+      "tag": "News"
     }
   ]
 }
