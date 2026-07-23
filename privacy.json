@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-07-22T14:52:39.424878+00:00",
+  "generated_at": "2026-07-23T14:58:54.090428+00:00",
   "count": 8,
   "items": [
+    {
+      "id": "931",
+      "title": "Professional Privacy in Online Meetings",
+      "link": "https://privacymatters.ubc.ca/news/professional-privacy-online-meetings",
+      "image": "https://privacymatters.ubc.ca/sites/default/files/inline-images/Professional%20Privacy%20in%20Online%20Meetings.jpeg",
+      "pub_iso": "2026-07-21T13:26:21+00:00",
+      "summary": "Video collaboration tools like Microsoft Teams and Zoom are now essential to how we teach, learn, and work at UBC. Every time we meet online, we handle personal information and confidential university data, often without even realizing it. Practising digital civility means taking simple, thoughtful steps to keep your virtual meetings secure and…",
+      "tag": "Article"
+    },
+    {
+      "id": "930",
+      "title": "Think Before You Forward: How One Click Can Create a Security Event",
+      "link": "https://privacymatters.ubc.ca/news/think-you-forward-how-one-click-can-create-security-event",
+      "image": "https://privacymatters.ubc.ca/sites/default/files/inline-images/Think%20Before%20You%20Forward%20-%20How%20One%20Click%20Can%20Create%20a%20Security%20Event.jpeg",
+      "pub_iso": "2026-07-20T21:05:08+00:00",
+      "summary": "In a fast-paced university environment, it’s natural to move quickly through email by skimming messages, responding between meetings, and sometimes hitting Forward without a second thought. But that small, familiar action can unintentionally put UBC’s information, systems, and community at risk. At Privacy Matters @ UBC, our goal is to support…",
+      "tag": "Article"
+    },
+    {
+      "id": "929",
+      "title": "Handling Personal Information: A Practical Refresher",
+      "link": "https://privacymatters.ubc.ca/news/handling-personal-information-practical-refresher",
+      "image": "https://privacymatters.ubc.ca/sites/default/files/inline-images/Handling%20Personal%20Information%20%E2%80%94%20A%20Practical%20Refresher.jpg",
+      "pub_iso": "2026-07-17T20:34:30+00:00",
+      "summary": "Every day at UBC, faculty and staff work with information that is personal, sensitive, and entrusted to us by students, colleagues, and community members. Handling this information responsibly is essential to maintaining trust. A clear understanding of what counts as personal information, how it may be used, and the practical steps for keeping it…",
+      "tag": "Article"
+    },
+    {
+      "id": "928",
+      "title": "Calendars & Availability: Oversharing Without Noticing",
+      "link": "https://privacymatters.ubc.ca/news/calendars-availability-oversharing-without-noticing",
+      "image": "https://privacymatters.ubc.ca/sites/default/files/inline-images/Calendars%20%26%20Availability%20-%20Oversharing%20Without%20Noticing.jpeg",
+      "pub_iso": "2026-07-17T19:55:48+00:00",
+      "summary": "Shared digital calendars play a major role in how we collaborate at UBC. They make it easy to coordinate meetings, book space, and stay connected across teams. But these tools also come with a challenge: the more open our calendars are, the more likely we are to reveal information we never intended to share. This tension—needing transparency for…",
+      "tag": "Article"
+    },
     {
       "id": "917",
       "title": "Cybersecurity on Vacation: Staying Safe Without Going Offline",
@@ -37,42 +73,6 @@
       "pub_iso": "2026-06-23T15:35:06+00:00",
       "summary": "As faculty and staff at UBC travel, attend conferences, or work remotely, smartphones, tablets, and laptops inevitably need recharging throughout the day. Public charging stations—common in airports, hotels, shopping centres, and event venues—seem like a convenient solution. However, much like connecting to public Wi-Fi, plugging into an…",
       "tag": "Article"
-    },
-    {
-      "id": "911",
-      "title": "The Return of Simple Scams: Why Low-Effort Phishing Works",
-      "link": "https://privacymatters.ubc.ca/news/return-simple-scams-why-low-effort-phishing-works",
-      "image": "https://privacymatters.ubc.ca/sites/default/files/inline-images/The%20Return%20of%20Simple%20Scams.jpg",
-      "pub_iso": "2026-05-14T16:52:43+00:00",
-      "summary": "Phishing has been around for decades, yet it remains one of the most common and effective cyber threats today. Many people picture sophisticated, highly technical attacks—but what often surprises security teams is how well simple, low-effort scams still work. Phishing is a form of social engineering in which criminals impersonate trusted…",
-      "tag": "News"
-    },
-    {
-      "id": "910",
-      "title": "“It Looked Official” (That’s the Scam)",
-      "link": "https://privacymatters.ubc.ca/news/it-looked-official-thats-scam",
-      "image": "https://privacymatters.ubc.ca/sites/default/files/inline-images/%E2%80%9CIt%20Looked%20Official%E2%80%9D%E2%80%94That%E2%80%99s%20the%20Scam.jpeg",
-      "pub_iso": "2026-05-13T15:29:30+00:00",
-      "summary": "Business Email Compromise (BEC) is one of the most damaging online crimes—not because of complex technology, but because it relies on people. These scams are built on social engineering: the careful manipulation of trust, routine, and urgency to get someone to reveal information or make a mistake. For faculty and staff at a large university, BEC…",
-      "tag": "News"
-    },
-    {
-      "id": "909",
-      "title": "Reply-All Regrets: Data Exposure in Group Communications",
-      "link": "https://privacymatters.ubc.ca/news/reply-all-regrets-data-exposure-group-communications",
-      "image": "https://privacymatters.ubc.ca/sites/default/files/inline-images/Reply-All%20Regrets%20-%20Data%20Exposure%20in%20Group%20Communications.jpeg",
-      "pub_iso": "2026-05-12T13:24:29+00:00",
-      "summary": "Most of us have experienced that sinking feeling after hitting “Reply All” and realizing—too late—that our message went to far more people than intended. In a large university environment, a small mistake can escalate quickly into a “Reply-All Storm,” flooding inboxes and exposing information that was never meant to be shared widely. While these…",
-      "tag": "News"
-    },
-    {
-      "id": "908",
-      "title": "Recognizing Emotional Manipulation in Emails",
-      "link": "https://privacymatters.ubc.ca/news/recognizing-emotional-manipulation-emails",
-      "image": "https://privacymatters.ubc.ca/sites/default/files/inline-images/Recognizing%20Emotional%20Manipulation%20in%20Emails_0.jpeg",
-      "pub_iso": "2026-05-11T18:29:17+00:00",
-      "summary": "Cybersecurity challenges are always evolving, but one thing hasn’t changed: attackers continue to rely on the power of human emotion. Rather than breaking through technical safeguards, many scammers now aim to bypass your judgment by triggering quick, emotional reactions that lead to risky clicks or rushed decisions. For UBC faculty and staff—who…",
-      "tag": "News"
     }
   ]
 }
