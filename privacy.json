@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T15:14:10.156917+00:00",
+  "generated_at": "2026-08-06T15:04:09.187096+00:00",
   "count": 8,
   "items": [
     {
@@ -45,16 +45,16 @@
       "image": "https://privacymatters.ubc.ca/sites/default/files/inline-images/Cybersecurity%20on%20Vacation%20-%20Staying%20Safe%20Without%20Going%20Offline.jpeg",
       "pub_iso": "2026-06-23T18:20:58+00:00",
       "summary": "Whether you’re travelling for research, conferences, fieldwork, or personal time away, staying connected is often part of the journey. Phones, tablets, and laptops make travel easier—but they also introduce added risks when taken outside familiar and trusted environments. For UBC faculty and staff, those risks include the potential loss, theft, or…",
-      "tag": "Article"
+      "tag": "News"
     },
     {
       "id": "916",
       "title": "What Happens to Your Data at the Border?",
-      "link": "https://privacymatters.ubc.ca/what-happens-your-data-border",
+      "link": "https://privacymatters.ubc.ca/news/what-happens-your-data-border",
       "image": "https://privacymatters.ubc.ca/sites/default/files/inline-images/What%20Happens%20To%20Your%20Data%20at%20the%20Border.jpeg",
       "pub_iso": "2026-06-23T17:56:44+00:00",
       "summary": "Many UBC faculty and staff travel internationally for conferences, research, or personal reasons. While mobile devices make it easy to stay connected while away, bringing phones, laptops, or tablets across borders can expose sensitive UBC Electronic Information to additional risks, particularly when crossing into countries where border officials…",
-      "tag": "Article"
+      "tag": "News"
     },
     {
       "id": "915",
@@ -63,7 +63,7 @@
       "image": "https://privacymatters.ubc.ca/sites/default/files/inline-images/Think%20Before%20You%20Connect%20-%20The%20Hidden%20Risks%20of%20Public%20Wi-Fi.jpeg",
       "pub_iso": "2026-06-23T16:41:42+00:00",
       "summary": "Working remotely can be a great way to stay productive—whether you’re travelling for research, checking email between conference sessions, or settling in at a neighbourhood coffee shop. But the moment you connect from outside UBC’s managed network, you move from a secure, familiar environment into one that is often open, unpredictable, and less…",
-      "tag": "Article"
+      "tag": "News"
     },
     {
       "id": "914",
@@ -72,7 +72,7 @@
       "image": "https://privacymatters.ubc.ca/sites/default/files/inline-images/Think%20Before%20You%20Charge%20-%20Understanding%20Public%20Charging%20Risks.jpg",
       "pub_iso": "2026-06-23T15:35:06+00:00",
       "summary": "As faculty and staff at UBC travel, attend conferences, or work remotely, smartphones, tablets, and laptops inevitably need recharging throughout the day. Public charging stations—common in airports, hotels, shopping centres, and event venues—seem like a convenient solution. However, much like connecting to public Wi-Fi, plugging into an…",
-      "tag": "Article"
+      "tag": "News"
     }
   ]
 }
