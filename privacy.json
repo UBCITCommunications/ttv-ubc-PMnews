@@ -1,7 +1,16 @@
 {
-  "generated_at": "2026-10-15T17:25:57.213796+00:00",
+  "generated_at": "2026-10-16T17:01:19.348818+00:00",
   "count": 8,
   "items": [
+    {
+      "id": "1036",
+      "title": "\"Assume It's Forever\": We Are the Data Event Recap with Dr. Wendy Wong",
+      "link": "https://privacymatters.ubc.ca/news/assume-its-forever-we-are-data-event-recap-dr-wendy-wong",
+      "image": "https://privacymatters.ubc.ca/sites/default/files/inline-images/We%20The%20Data%20Banner.jpg",
+      "pub_iso": "2026-10-15T18:16:18+00:00",
+      "summary": "Last week, the second session of UBC’s Cybersecurity Awareness Month brought UBC Professor Dr. Wendy H. Wong , to a webinar attended by IT, privacy, and campus colleagues. Dr. Wong is a Professor of Political Science, Principal's Research Chair at UBC Okanagan, and the author of We, the Data: Human Rights in the Digital Age (MIT Press), winner of…",
+      "tag": "News"
+    },
     {
       "id": "967",
       "title": "Fake Order Confirmation Emails Are Leading to Phone Scams",
@@ -63,15 +72,6 @@
       "image": "https://privacymatters.ubc.ca/sites/default/files/inline-images/What%20Happens%20To%20Your%20Data%20at%20the%20Border.jpeg",
       "pub_iso": "2026-06-23T17:56:44+00:00",
       "summary": "Many UBC faculty and staff travel internationally for conferences, research, or personal reasons. While mobile devices make it easy to stay connected while away, bringing phones, laptops, or tablets across borders can expose sensitive UBC Electronic Information to additional risks, particularly when crossing into countries where border officials…",
-      "tag": "News"
-    },
-    {
-      "id": "915",
-      "title": "Think Before You Connect: The Hidden Risks of Public Wi-Fi",
-      "link": "https://privacymatters.ubc.ca/news/think-you-connect-hidden-risks-public-wi-fi",
-      "image": "https://privacymatters.ubc.ca/sites/default/files/inline-images/Think%20Before%20You%20Connect%20-%20The%20Hidden%20Risks%20of%20Public%20Wi-Fi.jpeg",
-      "pub_iso": "2026-06-23T16:41:42+00:00",
-      "summary": "Working remotely can be a great way to stay productive—whether you’re travelling for research, checking email between conference sessions, or settling in at a neighbourhood coffee shop. But the moment you connect from outside UBC’s managed network, you move from a secure, familiar environment into one that is often open, unpredictable, and less…",
       "tag": "News"
     }
   ]
