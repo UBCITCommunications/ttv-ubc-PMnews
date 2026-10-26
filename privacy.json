@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-10-25T16:52:52.504514+00:00",
+  "generated_at": "2026-10-26T18:54:33.518287+00:00",
   "count": 8,
   "items": [
+    {
+      "id": "1038",
+      "title": "Predictability: The Enemy of Online Safety",
+      "link": "https://privacymatters.ubc.ca/news/predictability-enemy-online-safety",
+      "image": "https://privacymatters.ubc.ca/sites/default/files/inline-images/Predictability%20-%20The%20Enemy%20of%20Online%20Safety.jpg",
+      "pub_iso": "2026-10-26T18:25:05+00:00",
+      "summary": "Cybercriminals are not searching for chaos—they’re searching for patterns . In a large, complex environment like UBC, where faculty and staff rely on well-established routines to keep work moving, those habits can unintentionally create a roadmap for attackers. Predictable behaviour, predictable passwords, even predictable technical settings, all…",
+      "tag": "Article"
+    },
+    {
+      "id": "1037",
+      "title": "Reputation Security: Understanding Your Digital Legacy",
+      "link": "https://privacymatters.ubc.ca/news/reputation-security-understanding-your-digital-legacy",
+      "image": "https://privacymatters.ubc.ca/sites/default/files/inline-images/Reputation%20Security%20-%20Understanding%20Your%20Digital%20Legacy.jpeg",
+      "pub_iso": "2026-10-26T17:53:53+00:00",
+      "summary": "At UBC, we work with sensitive information every day—from research data to financial details to personal records. Protecting that information begins with something deeply personal: how we manage our digital identities. Just as we safeguard our physical spaces, it’s equally important to understand the online traces we leave behind and how they…",
+      "tag": "Article"
+    },
     {
       "id": "1036",
       "title": "\"Assume It's Forever\": We Are the Data Event Recap with Dr. Wendy Wong",
@@ -10,6 +28,15 @@
       "pub_iso": "2026-10-15T18:16:18+00:00",
       "summary": "Last week, the second session of UBC’s Cybersecurity Awareness Month brought UBC Professor Dr. Wendy H. Wong , to a webinar attended by IT, privacy, and campus colleagues. Dr. Wong is a Professor of Political Science, Principal's Research Chair at UBC Okanagan, and the author of We, the Data: Human Rights in the Digital Age (MIT Press), winner of…",
       "tag": "News"
+    },
+    {
+      "id": "1033",
+      "title": "Why No One Is “Too Small” to Be a Victim of Cybercrime",
+      "link": "https://privacymatters.ubc.ca/news/why-no-one-too-small-be-victim-cybercrime",
+      "image": "https://privacymatters.ubc.ca/sites/default/files/inline-images/Why%20No%20One%20Is%20%E2%80%9CToo%20Small%E2%80%9D%20to%20be%20a%20Victim%20of%20Cybercrime.jpg",
+      "pub_iso": "2026-10-09T16:54:33+00:00",
+      "summary": "Many people believe cybercriminals only go after big companies, high-profile individuals, or people with large financial resources. It’s an understandable assumption, as headlines tend to focus on major breaches. But in reality, no one is “too small” to be targeted, and no organization is too small to be affected. If you use the internet, manage a…",
+      "tag": "Article"
     },
     {
       "id": "967",
@@ -45,33 +72,6 @@
       "image": "https://privacymatters.ubc.ca/sites/default/files/inline-images/Handling%20Personal%20Information%20%E2%80%94%20A%20Practical%20Refresher.jpg",
       "pub_iso": "2026-07-17T20:34:30+00:00",
       "summary": "Every day at UBC, faculty and staff work with information that is personal, sensitive, and entrusted to us by students, colleagues, and community members. Handling this information responsibly is essential to maintaining trust. A clear understanding of what counts as personal information, how it may be used, and the practical steps for keeping it…",
-      "tag": "News"
-    },
-    {
-      "id": "928",
-      "title": "Calendars & Availability: Oversharing Without Noticing",
-      "link": "https://privacymatters.ubc.ca/news/calendars-availability-oversharing-without-noticing",
-      "image": "https://privacymatters.ubc.ca/sites/default/files/inline-images/Calendars%20%26%20Availability%20-%20Oversharing%20Without%20Noticing.jpeg",
-      "pub_iso": "2026-07-17T19:55:48+00:00",
-      "summary": "Shared digital calendars play a major role in how we collaborate at UBC. They make it easy to coordinate meetings, book space, and stay connected across teams. But these tools also come with a challenge: the more open our calendars are, the more likely we are to reveal information we never intended to share. This tension—needing transparency for…",
-      "tag": "News"
-    },
-    {
-      "id": "917",
-      "title": "Cybersecurity on Vacation: Staying Safe Without Going Offline",
-      "link": "https://privacymatters.ubc.ca/news/cybersecurity-vacation-staying-safe-without-going-offline",
-      "image": "https://privacymatters.ubc.ca/sites/default/files/inline-images/Cybersecurity%20on%20Vacation%20-%20Staying%20Safe%20Without%20Going%20Offline.jpeg",
-      "pub_iso": "2026-06-23T18:20:58+00:00",
-      "summary": "Whether you’re travelling for research, conferences, fieldwork, or personal time away, staying connected is often part of the journey. Phones, tablets, and laptops make travel easier—but they also introduce added risks when taken outside familiar and trusted environments. For UBC faculty and staff, those risks include the potential loss, theft, or…",
-      "tag": "News"
-    },
-    {
-      "id": "916",
-      "title": "What Happens to Your Data at the Border?",
-      "link": "https://privacymatters.ubc.ca/news/what-happens-your-data-border",
-      "image": "https://privacymatters.ubc.ca/sites/default/files/inline-images/What%20Happens%20To%20Your%20Data%20at%20the%20Border.jpeg",
-      "pub_iso": "2026-06-23T17:56:44+00:00",
-      "summary": "Many UBC faculty and staff travel internationally for conferences, research, or personal reasons. While mobile devices make it easy to stay connected while away, bringing phones, laptops, or tablets across borders can expose sensitive UBC Electronic Information to additional risks, particularly when crossing into countries where border officials…",
       "tag": "News"
     }
   ]
