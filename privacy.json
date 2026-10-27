@@ -1,7 +1,16 @@
 {
-  "generated_at": "2026-10-26T18:54:33.518287+00:00",
+  "generated_at": "2026-10-27T18:26:23.439731+00:00",
   "count": 8,
   "items": [
+    {
+      "id": "1039",
+      "title": "Why Cybersecurity Basics Will Always Matter — Even With AI",
+      "link": "https://privacymatters.ubc.ca/news/why-cybersecurity-basics-will-always-matter-even-ai",
+      "image": "https://privacymatters.ubc.ca/sites/default/files/inline-images/Why%20Cybersecurity%20Basics%20Will%20Always%20Matter%20%E2%80%94%20Even%20With%20AI.jpg",
+      "pub_iso": "2026-10-26T19:26:04+00:00",
+      "summary": "AI is reshaping how we work and learn at UBC. It can streamline tasks, support research, and spark innovation. But as AI tools advance, so do the techniques used by cybercriminals. Attackers are now able to craft highly personalized, convincing scams at a speed and scale that would have been impossible even a few years ago. This doesn’t mean we…",
+      "tag": "Article"
+    },
     {
       "id": "1038",
       "title": "Predictability: The Enemy of Online Safety",
@@ -63,15 +72,6 @@
       "image": "https://privacymatters.ubc.ca/sites/default/files/inline-images/Think%20Before%20You%20Forward%20-%20How%20One%20Click%20Can%20Create%20a%20Security%20Event.jpeg",
       "pub_iso": "2026-07-20T21:05:08+00:00",
       "summary": "In a fast-paced university environment, it’s natural to move quickly through email by skimming messages, responding between meetings, and sometimes hitting Forward without a second thought. But that small, familiar action can unintentionally put UBC’s information, systems, and community at risk. At Privacy Matters @ UBC, our goal is to support…",
-      "tag": "News"
-    },
-    {
-      "id": "929",
-      "title": "Handling Personal Information: A Practical Refresher",
-      "link": "https://privacymatters.ubc.ca/news/handling-personal-information-practical-refresher",
-      "image": "https://privacymatters.ubc.ca/sites/default/files/inline-images/Handling%20Personal%20Information%20%E2%80%94%20A%20Practical%20Refresher.jpg",
-      "pub_iso": "2026-07-17T20:34:30+00:00",
-      "summary": "Every day at UBC, faculty and staff work with information that is personal, sensitive, and entrusted to us by students, colleagues, and community members. Handling this information responsibly is essential to maintaining trust. A clear understanding of what counts as personal information, how it may be used, and the practical steps for keeping it…",
       "tag": "News"
     }
   ]
