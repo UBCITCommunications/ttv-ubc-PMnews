@@ -1,7 +1,16 @@
 {
-  "generated_at": "2026-10-28T18:32:47.629937+00:00",
+  "generated_at": "2026-10-29T18:42:04.673356+00:00",
   "count": 8,
   "items": [
+    {
+      "id": "1040",
+      "title": "Event Recap: Cybersecurity Month at UBC Okanagan",
+      "link": "https://privacymatters.ubc.ca/news/october-10-2026/event-recap-cybersecurity-month-ubc-okanagan",
+      "image": "https://privacymatters.ubc.ca/sites/default/files/inline-images/Event%20Photo%204.png",
+      "pub_iso": "2026-10-29T16:09:46+00:00",
+      "summary": "The Privacy Matters team was pleased to bring Cybersecurity Awareness Month to the UBC Okanagan campus for the first time this year on October 20th. The event welcomed faculty and staff for an afternoon of networking, learning, and community building centered on the shared responsibility of cybersecurity at UBC. Attendees heard from Chief…",
+      "tag": "News"
+    },
     {
       "id": "1039",
       "title": "Why Cybersecurity Basics Will Always Matter — Even With AI",
@@ -63,15 +72,6 @@
       "image": "https://privacymatters.ubc.ca/sites/default/files/inline-images/Professional%20Privacy%20in%20Online%20Meetings.jpeg",
       "pub_iso": "2026-07-21T13:26:21+00:00",
       "summary": "Video collaboration tools like Microsoft Teams and Zoom are now essential to how we teach, learn, and work at UBC. Every time we meet online, we handle personal information and confidential university data, often without even realizing it. Practising digital civility means taking simple, thoughtful steps to keep your virtual meetings secure and…",
-      "tag": "News"
-    },
-    {
-      "id": "930",
-      "title": "Think Before You Forward: How One Click Can Create a Security Event",
-      "link": "https://privacymatters.ubc.ca/news/think-you-forward-how-one-click-can-create-security-event",
-      "image": "https://privacymatters.ubc.ca/sites/default/files/inline-images/Think%20Before%20You%20Forward%20-%20How%20One%20Click%20Can%20Create%20a%20Security%20Event.jpeg",
-      "pub_iso": "2026-07-20T21:05:08+00:00",
-      "summary": "In a fast-paced university environment, it’s natural to move quickly through email by skimming messages, responding between meetings, and sometimes hitting Forward without a second thought. But that small, familiar action can unintentionally put UBC’s information, systems, and community at risk. At Privacy Matters @ UBC, our goal is to support…",
       "tag": "News"
     }
   ]
