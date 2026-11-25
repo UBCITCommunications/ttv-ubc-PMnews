@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-11-24T22:49:00.946511+00:00",
+  "generated_at": "2026-11-25T22:01:15.266249+00:00",
   "count": 8,
   "items": [
+    {
+      "id": "1047",
+      "title": "Data Privacy and Cybersecurity Habits to Start Next Year With",
+      "link": "https://privacymatters.ubc.ca/news/data-privacy-and-cybersecurity-habits-start-next-year",
+      "image": "https://privacymatters.ubc.ca/sites/default/files/inline-images/Data%20Privacy%20and%20Cybersecurity%20Habits%20to%20Start%20Next%20Year%20With.jpg",
+      "pub_iso": "2026-11-25T19:29:59+00:00",
+      "summary": "A Quick Guide for the UBC Community As the year comes to a close, it’s a great time to reflect on the habits that support our well-being, our work, and our shared digital environment. Cybersecurity isn’t just a technical concern—it’s a set of everyday choices that help protect both you and the broader UBC community. These small but meaningful…",
+      "tag": "Article"
+    },
+    {
+      "id": "1046",
+      "title": "Fraud in Disguise: How Scams Blend into Holiday Buzz",
+      "link": "https://privacymatters.ubc.ca/news/november-11-2026/fraud-disguise-how-scams-blend-holiday-buzz",
+      "image": "https://privacymatters.ubc.ca/sites/default/files/inline-images/Fraud%20in%20Disguise%20-%20How%20Scams%20Blend%20Into%20Holiday%20Buzz.jpeg",
+      "pub_iso": "2026-11-25T17:50:52+00:00",
+      "summary": "The holiday season brings joy, giving, and the thrill of finding the perfect deal—but it’s also a prime time for cybercriminals . Amid the excitement of shopping and gift-giving, it’s easy to overlook warning signs. For UBC faculty and staff, staying vigilant helps protect not only personal finances but also UBC accounts and institutional data. By…",
+      "tag": "Article"
+    },
+    {
+      "id": "1045",
+      "title": "Being the Cyber-Savvy Relative: Tips for Helping Others",
+      "link": "https://privacymatters.ubc.ca/news/being-cyber-savvy-relative-tips-helping-others",
+      "image": "https://privacymatters.ubc.ca/sites/default/files/inline-images/Being%20the%20Cyber-Savvy%20Relative%20-%20Tips%20for%20Helping%20Others.jpg",
+      "pub_iso": "2026-11-25T17:34:15+00:00",
+      "summary": "The holiday season is a perfect time not just for physical gifts—but for sharing the gift of cybersecurity knowledge . As UBC faculty and staff, you rely on online tools for research, networking, and professional communication. The same best practices you use to protect your accounts can help safeguard your family and friends, particularly those…",
+      "tag": "Article"
+    },
+    {
+      "id": "1043",
+      "title": "What We Learned in 2026 — And How to Stay Ahead",
+      "link": "https://privacymatters.ubc.ca/news/what-we-learned-2026-and-how-stay-ahead",
+      "image": "https://privacymatters.ubc.ca/sites/default/files/inline-images/What%20We%20Learned%20This%20Year%20%E2%80%94%20And%20How%20to%20Stay%20Ahead.jpg",
+      "pub_iso": "2026-11-19T20:01:04+00:00",
+      "summary": "As 2026 comes to a close, it’s worth taking a moment to reflect on the cybersecurity and privacy lessons we explored together at UBC. From phishing and human behavior to AI and holiday scams, this year’s articles offered practical guidance for faculty, staff, and students to protect personal and institutional data. Use this summary as a quick…",
+      "tag": "Article"
+    },
     {
       "id": "1041",
       "title": "Updated Guidance on URL Formatting in Email Communications",
@@ -37,42 +73,6 @@
       "pub_iso": "2026-10-26T18:25:05+00:00",
       "summary": "Cybercriminals are not searching for chaos—they’re searching for patterns . In a large, complex environment like UBC, where faculty and staff rely on well-established routines to keep work moving, those habits can unintentionally create a roadmap for attackers. Predictable behaviour, predictable passwords, even predictable technical settings, all…",
       "tag": "Article"
-    },
-    {
-      "id": "1037",
-      "title": "Reputation Security: Understanding Your Digital Legacy",
-      "link": "https://privacymatters.ubc.ca/news/reputation-security-understanding-your-digital-legacy",
-      "image": "https://privacymatters.ubc.ca/sites/default/files/inline-images/Reputation%20Security%20-%20Understanding%20Your%20Digital%20Legacy.jpeg",
-      "pub_iso": "2026-10-26T17:53:53+00:00",
-      "summary": "At UBC, we work with sensitive information every day—from research data to financial details to personal records. Protecting that information begins with something deeply personal: how we manage our digital identities. Just as we safeguard our physical spaces, it’s equally important to understand the online traces we leave behind and how they…",
-      "tag": "Article"
-    },
-    {
-      "id": "1036",
-      "title": "\"Assume It's Forever\": We Are the Data Event Recap with Dr. Wendy Wong",
-      "link": "https://privacymatters.ubc.ca/news/assume-its-forever-we-are-data-event-recap-dr-wendy-wong",
-      "image": "https://privacymatters.ubc.ca/sites/default/files/inline-images/We%20The%20Data%20Banner.jpg",
-      "pub_iso": "2026-10-15T18:16:18+00:00",
-      "summary": "Last week, the second session of UBC’s Cybersecurity Awareness Month brought UBC Professor Dr. Wendy H. Wong , to a webinar attended by IT, privacy, and campus colleagues. Dr. Wong is a Professor of Political Science, Principal's Research Chair at UBC Okanagan, and the author of We, the Data: Human Rights in the Digital Age (MIT Press), winner of…",
-      "tag": "News"
-    },
-    {
-      "id": "1033",
-      "title": "Why No One Is “Too Small” to Be a Victim of Cybercrime",
-      "link": "https://privacymatters.ubc.ca/news/why-no-one-too-small-be-victim-cybercrime",
-      "image": "https://privacymatters.ubc.ca/sites/default/files/inline-images/Why%20No%20One%20Is%20%E2%80%9CToo%20Small%E2%80%9D%20to%20be%20a%20Victim%20of%20Cybercrime.jpg",
-      "pub_iso": "2026-10-09T16:54:33+00:00",
-      "summary": "Many people believe cybercriminals only go after big companies, high-profile individuals, or people with large financial resources. It’s an understandable assumption, as headlines tend to focus on major breaches. But in reality, no one is “too small” to be targeted, and no organization is too small to be affected. If you use the internet, manage a…",
-      "tag": "Article"
-    },
-    {
-      "id": "967",
-      "title": "Fake Order Confirmation Emails Are Leading to Phone Scams",
-      "link": "https://privacymatters.ubc.ca/news/toad-attacks",
-      "image": "https://privacymatters.ubc.ca/sites/default/files/inline-images/Fake%20Order%20Confirmation%20Emails%20Are%20Leading%20to%20Phone%20Scams.jpeg",
-      "pub_iso": "2026-09-11T18:36:27+00:00",
-      "summary": "UBC has received multiple reports of emails claiming a printer order was just placed using the recipient's account, sent under the names of real companies like Staples and Dell. The emails don't contain a malicious link. Instead, they tell you to call a toll-free number if you want to dispute the charge or cancel the order. That phone call is the…",
-      "tag": "Security Bulletin"
     }
   ]
 }
